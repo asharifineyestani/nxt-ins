@@ -17,3 +17,4 @@ use \App\Http\Controllers\PageController;
 */
 
 Route::get('/' , [PageController::class, 'welcome']);
+Route::get('/web-application' , [PageController::class, 'webApplication']);

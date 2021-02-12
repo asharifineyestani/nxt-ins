@@ -9,6 +9,12 @@ class PageController extends Controller
     public function welcome()
     {
         return view('pages.welcome');
-
     }
+
+      public function webApplication()
+    {
+        return view('pages.web_application');
+    }
+
+
 }
