@@ -27,7 +27,11 @@
     --color-3: #fec070;
     --color-4: #dc3545;
     --color-5: #28a745;
-    --color-6: darkblue;
+    --color-7: darkblue;
+    --color-8: darkblue;
+    --color-9: darkblue;
+    --color-10: darkblue;
+    --color-11: darkblue;
     --default: rgb(252, 255, 235);
     --font-family-1: "Poppins", sans-serif;
     --font-family-2: "Poppins", sans-serif;
@@ -94,7 +98,7 @@ $space: 100px;
 
 // Heading
 $h1: 69px;
-$h1: calc(4.5 * var(--vw)); 
+$h1: calc(4.5 * var(--vw));
 $h2: 42px;
 $h2: calc(3.05556 * var(--vw));
 $h3: 27px;

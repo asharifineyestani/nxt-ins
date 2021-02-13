@@ -11,7 +11,8 @@
     <base href="${props.base}">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,300,400,500,600,700,900&display=swap">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/plugins.min.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/styles.css') }}">
+{{--    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/styles.css') }}">--}}
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/op.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/rtl.css') }}">
 </head>
 
