@@ -4,16 +4,16 @@
             <div class="sidenav-body-inner">
                 <ul class="sidenav-menu">
                     <li>
-                        <a href="">Explore</a>
+                        <a href="/">برگ نخست</a>
                     </li>
                     <li>
-                        <a href="">Company</a>
+                        <a href="/about">درباره ما</a>
                     </li>
                     <li>
-                        <a href="">Pricing</a>
+                        <a href="/blog">وبلاگ</a>
                     </li>
                     <li>
-                        <a href="">Marketplace</a>
+                        <a href="/contact">ارتباط با ما</a>
                     </li>
                 </ul>
             </div>

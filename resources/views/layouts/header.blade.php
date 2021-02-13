@@ -47,16 +47,16 @@
                 </a>
                 <ul class="header-menu" data-aos="fade-down" data-aos-delay="500" data-aos-duration="1500">
                     <li>
-                        <a href="index.html">برگ نخست</a>
+                        <a href="/">برگ نخست</a>
                     </li>
                     <li>
-                        <a href="about.html">درباره ما</a>
+                        <a href="/about">درباره ما</a>
                     </li>
                     <li>
-                        <a href="blog.html">وبلاگ</a>
+                        <a href="/blog">وبلاگ</a>
                     </li>
                     <li>
-                        <a href="contact.html">ارتباط با ما</a>
+                        <a href="/contact">ارتباط با ما</a>
                     </li>
                 </ul>
             </div>
