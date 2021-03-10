@@ -21,5 +21,10 @@ class PageController extends Controller
         return view('pages.mobile_application');
     }
 
+    public function about()
+    {
+        return view('pages.about');
+    }
+
 
 }

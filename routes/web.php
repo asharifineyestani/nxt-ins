@@ -19,3 +19,4 @@ use \App\Http\Controllers\PageController;
 Route::get('/' , [PageController::class, 'welcome']);
 Route::get('/web-application' , [PageController::class, 'webApplication']);
 Route::get('/mobile-application' , [PageController::class, 'mobileApplication']);
+Route::get('/about' , [PageController::class, 'about']);

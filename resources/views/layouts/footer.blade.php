@@ -31,29 +31,34 @@
                                     <path d="M25.4964 0C39.5826 0 50.9927 11.4144 50.9927 25.4897C50.9927 39.5724 39.5754 50.9795 25.4964 50.9795C11.4174 50.9868 0 39.5724 0 25.4897C0 11.4144 11.4174 0 25.4964 0ZM12.8427 28.2888C12.8427 35.2756 18.5078 40.9464 25.5036 40.9464C32.4922 40.9464 38.1646 35.2829 38.1646 28.2888C38.1573 28.2888 28.638 28.2888 12.8427 28.2888Z"></path>
                                 </svg>
                             </span>
-                            <span class="text">OVERPASS</span>
+                            <span class="text">افرانکست</span>
                         </a>
                     </div>
                     <div class="col-7 col-sm-6 col-md-4 col-lg-3 offset-lg-1">
                         <div class="el-widget el-widget-links">
                             <div class="el-widget-head">
-                                <h3>Industries</h3>
+                                <h3>خدمات</h3>
                             </div>
                             <div class="el-widget-body">
                                 <ul>
                                     <li>
-                                        <a href="#">
-                                            <span class="text">Finance</span>
+                                        <a href="/web-application">
+                                            <span class="text"> وب اپلیکیشن</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
-                                            <span class="text">Real Estate</span>
+                                        <a href="/mobile-application">
+                                            <span class="text"> موبایل اپلیکیشن</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
-                                            <span class="text">Marketplace</span>
+                                        <a href="/design">
+                                            <span class="text">طراحی محصول</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/hosting">
+                                            <span class="text">مدیریت سرور</span>
                                         </a>
                                     </li>
                                 </ul>
@@ -61,23 +66,23 @@
                         </div>
                         <div class="el-widget el-widget-links">
                             <div class="el-widget-head">
-                                <h3>Company</h3>
+                                <h3>تیم ما</h3>
                             </div>
                             <div class="el-widget-body">
                                 <ul>
                                     <li>
                                         <a href="#">
-                                            <span class="text">About Us</span>
+                                            <span class="text">درباره ما</span>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <span class="text">Careers</span>
+                                            <span class="text">تماس با ما</span>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <span class="text">Blog</span>
+                                            <span class="text">همکاری </span>
                                         </a>
                                     </li>
                                 </ul>
@@ -137,21 +142,21 @@
                     <div class="col-12 col-sm-12 col-md-4 col-lg-2">
                         <div class="el-widget el-widget-welcome">
                             <div class="el-widget-head">
-                                <h3>Welcome</h3>
+                                <h3>پروژه دارید؟</h3>
                             </div>
                             <div class="el-widget-body">
-                                <p>Your next job opportunities awaits for you</p>
+                                <p>با ما تماس بگیرید تا در مورد آن صحبت کنیم</p>
                                 <a href="#" class="button button-lg button-radius button-dark">
-                                    <span class="text">LEARN MORE</span>
+                                    <span class="text">تماس با ما</span>
                                 </a>
                             </div>
                         </div>
                         <div class="el-widget el-widget-support">
                             <div class="el-widget-head">
-                                <h3>Support</h3>
+                                <h3>پشتیبانی</h3>
                             </div>
                             <div class="el-widget-body">
-                                <p>Check out our<br /><a href=""><span class="text">Help Center</span></a></p>
+                                <p>نحوه ساپورت ما را<br /><a href=""><span class="text">مطالعه بفرمایید</span></a></p>
                             </div>
                         </div>
                     </div>
@@ -190,7 +195,7 @@
                     </ul>
                 </div>
                 <div class="col-6 text-right">
-                    <p>© Overpass 2020</p>
+                    <p>© افرانکست 2021</p>
                 </div>
             </div>
         </div>
